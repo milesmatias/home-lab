@@ -72,7 +72,7 @@ pct enter <CTID>
 Bring Tailscale online:
 
 ```bash
-tailscale up
+tailscale up -ssh
 ```
 
 Open the login URL, sign in, and authorize the device.
