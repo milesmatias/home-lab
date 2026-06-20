@@ -1,4 +1,4 @@
-# Deploy Tailscale in a Proxmox LXC Using Helper Scripts
+# Deploy Tailscale in a Proxmox LXC Using Proxmox Helper Scripts
 
 This guide shows how to deploy Tailscale inside a Proxmox LXC using the Proxmox VE Helper Scripts / Community Scripts project. The goal is to create a small, lightweight Tailscale container that can securely connect to your tailnet. You can also turn it into a subnet router to access your Proxmox host and other LAN services remotely without opening ports on your router.
 
